@@ -12,3 +12,5 @@ Here the plate number is detected from image and live webcam as well. When the p
 detected_images and detected text is stored in output.csv.
 when the plate number is detected in webcam the detected images are stored in webcam_images
 directory and the detected text are stored in live_webcam.csv
+
+<img alt = 'coding' width = "1000" height = "500" src = "https://github.com/lalchhabi/Number_Plate_Recognition/blob/maste/number_plate_recognize_demo.png">
